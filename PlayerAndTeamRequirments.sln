@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerAndTeamRequirments", "PlayerAndTeamRequirments\PlayerAndTeamRequirments.csproj", "{6A67F630-D1F6-4FF8-9773-367DBAE27C6C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{15329258-DE4B-4B1E-AF8D-4EDDB7AD61CE} = {15329258-DE4B-4B1E-AF8D-4EDDB7AD61CE}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogicLayerClassLibrary", "BusinessLogicLayerClassLibrary\BusinessLogicLayerClassLibrary.csproj", "{15329258-DE4B-4B1E-AF8D-4EDDB7AD61CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A67F630-D1F6-4FF8-9773-367DBAE27C6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A67F630-D1F6-4FF8-9773-367DBAE27C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A67F630-D1F6-4FF8-9773-367DBAE27C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A67F630-D1F6-4FF8-9773-367DBAE27C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15329258-DE4B-4B1E-AF8D-4EDDB7AD61CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15329258-DE4B-4B1E-AF8D-4EDDB7AD61CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15329258-DE4B-4B1E-AF8D-4EDDB7AD61CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15329258-DE4B-4B1E-AF8D-4EDDB7AD61CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF4CC696-1851-43C2-A101-60B6B69C8C47}
+	EndGlobalSection
+EndGlobal

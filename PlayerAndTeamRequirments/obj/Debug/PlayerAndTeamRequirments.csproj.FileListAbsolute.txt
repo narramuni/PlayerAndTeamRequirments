@@ -1,0 +1,10 @@
+C:\Users\SAI PAVAN KUMAR\source\repos\PlayerAndTeamRequirments\PlayerAndTeamRequirments\bin\Debug\PlayerAndTeamRequirments.exe.config
+C:\Users\SAI PAVAN KUMAR\source\repos\PlayerAndTeamRequirments\PlayerAndTeamRequirments\bin\Debug\PlayerAndTeamRequirments.exe
+C:\Users\SAI PAVAN KUMAR\source\repos\PlayerAndTeamRequirments\PlayerAndTeamRequirments\bin\Debug\PlayerAndTeamRequirments.pdb
+C:\Users\SAI PAVAN KUMAR\source\repos\PlayerAndTeamRequirments\PlayerAndTeamRequirments\obj\Debug\PlayerAndTeamRequirments.csproj.AssemblyReference.cache
+C:\Users\SAI PAVAN KUMAR\source\repos\PlayerAndTeamRequirments\PlayerAndTeamRequirments\obj\Debug\PlayerAndTeamRequirments.csproj.CoreCompileInputs.cache
+C:\Users\SAI PAVAN KUMAR\source\repos\PlayerAndTeamRequirments\PlayerAndTeamRequirments\obj\Debug\PlayerAndTeamRequirments.exe
+C:\Users\SAI PAVAN KUMAR\source\repos\PlayerAndTeamRequirments\PlayerAndTeamRequirments\obj\Debug\PlayerAndTeamRequirments.pdb
+C:\Users\SAI PAVAN KUMAR\source\repos\PlayerAndTeamRequirments\PlayerAndTeamRequirments\bin\Debug\BusinessLogicLayerClassLibrary.dll
+C:\Users\SAI PAVAN KUMAR\source\repos\PlayerAndTeamRequirments\PlayerAndTeamRequirments\bin\Debug\BusinessLogicLayerClassLibrary.pdb
+C:\Users\SAI PAVAN KUMAR\source\repos\PlayerAndTeamRequirments\PlayerAndTeamRequirments\obj\Debug\PlayerAndTeamRequirments.csproj.CopyComplete

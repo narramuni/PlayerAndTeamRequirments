@@ -1,0 +1,6 @@
+C:\Users\SAI PAVAN KUMAR\source\repos\PlayerAndTeamRequirments\BusinessLogicLayerClassLibrary\bin\Debug\BusinessLogicLayerClassLibrary.dll
+C:\Users\SAI PAVAN KUMAR\source\repos\PlayerAndTeamRequirments\BusinessLogicLayerClassLibrary\bin\Debug\BusinessLogicLayerClassLibrary.pdb
+C:\Users\SAI PAVAN KUMAR\source\repos\PlayerAndTeamRequirments\BusinessLogicLayerClassLibrary\obj\Debug\BusinessLogicLayerClassLibrary.csproj.AssemblyReference.cache
+C:\Users\SAI PAVAN KUMAR\source\repos\PlayerAndTeamRequirments\BusinessLogicLayerClassLibrary\obj\Debug\BusinessLogicLayerClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\SAI PAVAN KUMAR\source\repos\PlayerAndTeamRequirments\BusinessLogicLayerClassLibrary\obj\Debug\BusinessLogicLayerClassLibrary.dll
+C:\Users\SAI PAVAN KUMAR\source\repos\PlayerAndTeamRequirments\BusinessLogicLayerClassLibrary\obj\Debug\BusinessLogicLayerClassLibrary.pdb
